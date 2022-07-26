@@ -11,6 +11,8 @@ With the following params (in Property Settings) it is possible to customize the
 | **Time Zone** | Add or remove hours to the UTC time |
 | **Minutes Increaser** | Allows adding a custom minutes value to time |
 
+![UTC_BP_WallClock](https://user-images.githubusercontent.com/18500631/181046770-f3a0f0e0-e939-4931-8070-053098ebc070.jpg)
+
 With the interior BP params (called Core Settings) it is possible to modify the logic on clock hands' rotation.
 These params are in BP settings and are not visible from a BP instance.
 
@@ -19,6 +21,7 @@ It is possible to add the BP_WallClock to the Game Viewport directly from the pa
 ```
 '/GegTimerLiveLink/Core/Blueprints/BP_WallClock.BP_WallClock'
 ```
+
 
 ### Note
 This project is licensed under the terms of the MIT license.
